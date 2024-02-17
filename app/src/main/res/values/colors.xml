@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Switch Button Colors -->
+    <color name="enabled_switch_red">#FF0000</color>
+    <color name="enabled_switch_green">#00FF00</color>
+    <color name="enabled_switch_blue">#0000FF</color>
+    <color name="disabled_switch_gray">#1c000000</color>
+
+    <!-- Disabled Switch editText -->
+    <color name="disabled_switch_edittext">#5C5858</color>
+    <color name="disabled_switch_edittext_bg">#EFEFEF</color>
+
+    <!-- SeekBar Colors -->
+    <color name="seek_bar_thumb">#A09D9D</color>
+    <color name="disabled_seekbar_red">#EE9191</color>
+    <color name="disabled_seekbar_green">#86DD86</color>
+    <color name="disabled_seekbar_blue">#6767E2</color>
+</resources>

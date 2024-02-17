@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RGB Color Picker</string>
+    <string name="g">G</string>
+    <string name="b">B</string>
+    <string name="r">R</string>
+    <string name="reset">Reset</string>
+</resources>
